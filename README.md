@@ -1,2 +1,2 @@
-### hI, I'm Vinicius Takedi
+## Hi, I'm Vinicius Takedi :wave:
 Readme to present myself
