@@ -11,5 +11,5 @@
 | My Website  |  Currency Converter BR  |
 | ------------------- | ------------------- |
 | It's a presentation about me with contacts, skills and stuff. The link works normally. |  It is a currency converter, the API used is that of the European central bank. Sometimes the site takes a long time to load because of the server |
-|  Link: https://viniciustakedi.github.io/portfolio-takedi/|  Link: https://conversordemoedasbr.herokuapp.com/|
+|  Link: https://viniciustakedi.github.io/portfolio-takedi/ |  Link: https://conversordemoedasbr.herokuapp.com/ | 
 
