@@ -7,3 +7,8 @@
 * Playing video games and football are good options :video_game: :soccer:
 
 ### Some projects:
+
+| My Website  |  Currency Converter BR  |
+| ------------------- | ------------------- |
+|  Link: https://viniciustakedi.github.io/portfolio-takedi/|  Link: https://conversordemoedasbr.herokuapp.com/|
+|  Célula de conteúdo |  Célula de conteúdo |
