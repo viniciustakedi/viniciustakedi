@@ -8,8 +8,8 @@
 
 ### Some projects:
 
-| My Website  |  Currency Converter BR  |
+| My Website  |  WebSite M2S Cars  |
 | ------------------- | ------------------- |
-| It's a presentation about me with contacts, skills and stuff. The link works normally. |  It is a currency converter, the API used is that of the European central bank. Sometimes the site takes a long time to load because of the server. |
-|  Link: https://viniciustakedi.github.io/portfolio-takedi/ |  Link: https://conversordemoedasbr.herokuapp.com/ | 
+| It's a presentation about me with contacts, skills and stuff. The link works normally. |  It is a website for selling cars in São Paulo, this website was built with ReactJS for front-end, PHP with Lumen Framework for back-end and MySQL for database, all tasks were done by me |
+|  Link: https://viniciustakedi.github.io/portfolio-takedi/ |  Link: https://m2scars.com.br/| 
 
