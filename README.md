@@ -16,9 +16,9 @@
 
 :mailbox: Você pode falar comigo por email, Twitter ou Instagram caso eu possa te ajudar em algo ou caso queira bater um papo sobre programação, não exite em me chamar :smile: adoro conversar sobre programação e ajudar.
 
-:video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro kkkkk, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk :cook:
+:video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk :cook:
 
-:pushpin: Sou de São Paulo capital, e tenho 20 anos como eu disse anteriormente, mas além do vídeo-game das comidinhas :sushi: eu adoro música :microphone: então se souber de alguma musiquinha pode mandar :grinning:
+:pushpin: Sou de São Paulo capital, e tenho 20 anos como eu disse anteriormente, e minha stack principal atualmente é NodeJs e TypeScript, mas lembrando que a tecnologia é só um meio/ferramenta para resolver um problema, então sempre estou disposto a aprender novos métodos, linguagens, ferramentas entre outros. :grinning:
  
 ## Ferramentas e Tecnologias
 ### Front-End
