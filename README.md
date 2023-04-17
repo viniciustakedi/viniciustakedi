@@ -12,6 +12,8 @@
   </div>
 </div> 
 
+<br/>
+
 :mailbox: Você pode falar comigo por email, Twitter ou Instagram caso eu possa te ajudar em algo, não exite em me chamar :smile: adoro conversar sobre programação e ajudar.
 
 :video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro kkkkk, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk :cook:
