@@ -78,5 +78,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakedi&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-:mailbox: Meu email: viniciustakedi7@gmail.com
-:iphone: Meu instagram: @7akedi
+<br/>
+  
+<div style={{display: flex}}>
+ :mailbox: Meu email: viniciustakedi7@gmail.com
+ :iphone: Meu instagram: @7akedi
+</div>
