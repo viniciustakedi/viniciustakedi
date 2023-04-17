@@ -14,9 +14,9 @@
 
 <br/>
 
-:mailbox: Você pode falar comigo por email, Twitter ou Instagram caso eu possa te ajudar em algo ou caso queira bater um papo sobre programação, não exite em me chamar :smile: adoro conversar sobre programação e ajudar.
+:mailbox: Você pode falar comigo por email ou Instagram caso eu possa te ajudar em algo ou caso queira bater um papo sobre programação, não exite em me chamar :smile: adoro conversar sobre programação e ajudar.
 
-:video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk :cook:
+:video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk. :cook:
 
 :pushpin: Sou de São Paulo capital, e tenho 20 anos como eu disse anteriormente, e minha stack principal atualmente é NodeJs e TypeScript, mas lembrando que a tecnologia é só um meio/ferramenta para resolver um problema, então sempre estou disposto a aprender novos métodos, linguagens, ferramentas entre outros. :grinning:
  
@@ -77,3 +77,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciustakedi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakedi&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+
+:mailbox: Meu email: viniciustakedi7@gmail.com
+:iphone: Meu instagram: @7akedi
