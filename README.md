@@ -81,6 +81,10 @@
 <br/>
   
 <div style={{display: flex}}>
- :mailbox: Meu email: viniciustakedi7@gmail.com
- :iphone: Meu instagram: @7akedi
+ <div>
+  :mailbox: Meu email: viniciustakedi7@gmail.com
+ </div>
+ <div>
+   :iphone: Meu instagram: @7akedi
+ </div>
 </div>
