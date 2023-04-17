@@ -10,7 +10,13 @@
   <div>
     :small_blue_diamond: Tenho 3 (três) anos de experiência no mercado de trabalho. 
   </div>
- </div> 
+</div> 
+
+:mailbox: Você pode falar comigo por email, Twitter ou Instagram caso eu possa te ajudar em algo, não exite em me chamar :smile: adoro conversar sobre programação e ajudar.
+
+:video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro kkkkk, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk :cook:
+
+:pushpin: Sou de São Paulo capital, e tenho 20 anos como eu disse anteriormente, mas além do vídeo-game das comidinhas :sushi: eu adoro música :microphone: então se souber de alguma musiquinha pode mandar :grinning:
  
 ## Ferramentas e Tecnologias
 ### Front-End
@@ -66,6 +72,6 @@
 
 <div>
   <a href="https://github.com/viniciustakedi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciustakedi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakedi&layout=compact&langs_count=7&theme=gotham"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciustakedi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
