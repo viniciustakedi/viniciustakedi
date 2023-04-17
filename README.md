@@ -3,7 +3,7 @@
 
  
 ## Ferramentas e Tecnologias
-<div style={{display: flex; margin-bottom: '2rem'}}>
+<div style={{display: flex; marginBottom: '2rem'}}>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 </div>         
