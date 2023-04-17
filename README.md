@@ -1,9 +1,15 @@
 ## Olá, sou o Vinícius! :wave:
 
-<div style={{display: flex}}>  
-  - :small_blue_diamond: Tenho 20 anos e adoro programar! 
-  - :small_blue_diamond: Atualmente sou desenvolvedor de software full-stack.
-  - :small_blue_diamond: Tenho 3 (três) anos de experiência no mercado de trabalho. 
+<div style={{display: flex}}> 
+  <div>
+    :small_blue_diamond: Tenho 20 anos e adoro programar!
+  </div>
+ <div>
+    :small_blue_diamond: Atualmente sou desenvolvedor de software full-stack.
+  </div>
+  <div>
+    :small_blue_diamond: Tenho 3 (três) anos de experiência no mercado de trabalho. 
+  </div>
  </div> 
  
 ## Ferramentas e Tecnologias
