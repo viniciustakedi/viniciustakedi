@@ -2,7 +2,7 @@
 
 <div style={{display: flex}}> 
   <div>
-    :small_blue_diamond: Tenho 20 anos e adoro programar!
+    :small_blue_diamond: Tenho 21 anos e adoro programar!
   </div>
  <div>
     :small_blue_diamond: Atualmente sou desenvolvedor de software full-stack.
