@@ -8,7 +8,7 @@
     :small_blue_diamond: Atualmente sou desenvolvedor de software full-stack.
   </div>
   <div>
-    :small_blue_diamond: Tenho 3 (três) anos de experiência no mercado de trabalho. 
+    :small_blue_diamond: Tenho quatro anos de experiência no mercado de trabalho. 
   </div>
 </div> 
 
