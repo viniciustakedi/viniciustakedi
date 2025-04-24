@@ -4,6 +4,10 @@
 
 Welcome to my GitHub! I'm a passionate Computer Scientist (Working as a Software Engineer nowadays hahaha) who loves turning ideas into real, impactful digital experiences. My work revolves around strong architecture and high performance — always aiming to build products that matter.
 
+Over the past few years, I've had the opportunity to work in impactful companies across fintech, sales accelerator  & CRM, and loyalty solutions for example — each experience sharpening my skills in backend and full-stack development, scalable systems, cloud architecture, and real-world problem solving.
+
+I currently work at a fintech company based in São Paulo, Brazil, with over 16 millions users.
+
 ---
 
 ## 💻 Tech Stack
