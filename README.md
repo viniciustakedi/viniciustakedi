@@ -1,90 +1,37 @@
-## Olá, sou o Vinícius! :wave:
+# 👋 Hi there! I'm Vinícius Takedi
 
-<div style={{display: flex}}> 
-  <div>
-    :small_blue_diamond: Tenho 21 anos e adoro programar!
-  </div>
- <div>
-    :small_blue_diamond: Atualmente sou desenvolvedor de software full-stack.
-  </div>
-  <div>
-    :small_blue_diamond: Tenho quatro anos de experiência no mercado de trabalho. 
-  </div>
-</div> 
+**Software Engineer | Go & Node.js Developer | B.Sc. in Computer Science | API-First | Scalable Systems | Fintech & Cloud Enthusiast**
 
-<br/>
+Welcome to my GitHub! I'm a passionate software engineer who loves turning ideas into real, impactful digital experiences. My work revolves around strong architecture and high performance — always aiming to build products that matter.
 
-:mailbox: Você pode falar comigo por email ou Instagram caso eu possa te ajudar em algo ou caso queira bater um papo sobre programação, não exite em me chamar :smile: adoro conversar sobre programação e ajudar.
+---
 
-:video_game: Adoro jogar vídeo-games, mesmo sem tempo por enquanto eu adoro, também adoro cozinhar, se tiver alguma receita passa ai pra gente testar kkkkkk. :cook:
+## 💻 Tech Stack
 
-:pushpin: Sou de São Paulo capital, e tenho 20 anos como eu disse anteriormente, e minha stack principal atualmente é NodeJs e TypeScript, mas lembrando que a tecnologia é só um meio/ferramenta para resolver um problema, então sempre estou disposto a aprender novos métodos, linguagens, ferramentas entre outros. :grinning:
- 
-## Ferramentas e Tecnologias
-### Front-End
-<div style={{display: flex}}>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/>
-</div> 
+- **Languages:** Go, TypeScript, JavaScript, Rust, SQL
+- **Frameworks:** React, NextJs, React Native, NestJs, Express
+- **Tools:** Docker, Git, Redis, PostgreSQL, MySQL, MongoDB, RabbitMQ, Kafka, BullMQ
+- **Other:** Clean Architecture, TDD, RESTful APIs
+- **Cloud & DevOps:** CI/CD, Railway, Vercel, Google Cloud Plataform, PUB/SUB
 
-### Back-End
-<div style={{display: flex}}>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</div>
+---
 
-### Database
-<div style={{display: flex}}>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-</div>
+## 🚀 A Bit About Me
 
-### Devops
-<div style={{display: flex}}>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</div>
+- 🎓 Bachelor's in Computer Science
+- 🧠 Always learning — especially about new technologies and self-help methodologies for example
+- 🧩 I enjoy solving complex problems and optimizing systems from both the dev and user side
+- 🛠️ Building side projects, contributing to open source, and sharing what I learn along the way by blog posts or with videos
+- 💬 Let's talk tech, code, startups, or anything in between!
 
-### Outros
-<div style={{display: flex}}>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</div>
+---
 
-<br/>
+## 📫 Let's Connect
 
-<div>
-  <a href="https://github.com/viniciustakedi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciustakedi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakedi&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+- 🌐 Portfolio: [takedi.com](https://takedi.com)
+- 💼 LinkedIn: [linkedin.com/in/viniciustakedi](https://linkedin.com/in/viniciustakedi)
+- 📸 Instagram: [@7akedi](https://www.instagram.com/7akedi/)
 
-<br/>
-  
-<div style={{display: flex}}>
- <div>
-  :mailbox: Meu email: viniciustakedi7@gmail.com
- </div>
- <div>
-   :iphone: Meu instagram: @7akedi
- </div>
-</div>
+---
+
+_Thanks for visiting my GitHub — feel free to explore my projects or drop a message. Let’s build cool stuff together!_
