@@ -2,7 +2,7 @@
 
 **Software Engineer | Go & Node.js Developer | B.Sc. in Computer Science | API-First | Scalable Systems | Fintech & Cloud Enthusiast**
 
-Welcome to my GitHub! I'm a passionate software engineer who loves turning ideas into real, impactful digital experiences. My work revolves around strong architecture and high performance — always aiming to build products that matter.
+Welcome to my GitHub! I'm a passionate Computer Scientist (Working as a Software Engineer nowadays hahaha) who loves turning ideas into real, impactful digital experiences. My work revolves around strong architecture and high performance — always aiming to build products that matter.
 
 ---
 
