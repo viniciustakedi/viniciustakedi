@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm a passionate Computer Scientist (Working as a Software
 
 ## 💻 Tech Stack
 
-- **Languages:** Go, TypeScript, JavaScript, Rust, SQL
-- **Frameworks:** React, NextJs, React Native, NestJs, Express
-- **Tools:** Docker, Git, Redis, PostgreSQL, MySQL, MongoDB, RabbitMQ, Kafka, BullMQ
-- **Other:** Clean Architecture, TDD, RESTful APIs
-- **Cloud & DevOps:** CI/CD, Railway, Vercel, Google Cloud Plataform, PUB/SUB
+- **Languages:** Go, TypeScript, JavaScript, Rust, SQL...
+- **Frameworks:** React, NextJs, React Native, NestJs, Express...
+- **Tools:** Docker, Git, Redis, PostgreSQL, MySQL, MongoDB, RabbitMQ, Kafka, BullMQ...
+- **Other:** Clean Architecture, TDD, RESTful APIs...
+- **Cloud & DevOps:** CI/CD, Railway, Vercel, Google Cloud Plataform, PUB/SUB...
 
 ---
 
