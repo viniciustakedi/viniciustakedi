@@ -1,41 +1,57 @@
-# 👋 Hi there! I'm Vinícius Takedi
+<div align="center">
 
-**Software Engineer | Go & Node.js Developer | B.Sc. in Computer Science | API-First | Scalable Systems | Fintech & Cloud Enthusiast**
+# Hey, I'm Vinícius Takedi 👋
 
-Welcome to my GitHub! I'm a passionate Computer Scientist (Working as a Software Engineer nowadays hahaha) who loves turning ideas into real, impactful digital experiences. My work revolves around strong architecture and high performance — always aiming to build products that matter.
+### Full Stack AI Engineer · Go & TypeScript · Agentic Systems · RAG & Vector Search
 
-Over the past few years, I've had the opportunity to work in impactful companies across fintech, sales accelerator  & CRM, and loyalty solutions for example — each experience sharpening my skills in backend and full-stack development, scalable systems, cloud architecture, and real-world problem solving.
+[![Portfolio](https://img.shields.io/badge/Portfolio-takedi.com-B22222?style=flat-square)](https://takedi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viniciustakedi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%407akedi-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/7akedi/)
 
-I currently work at a fintech company based in São Paulo, Brazil, with over 16 millions users.
-
----
-
-## 💻 Tech Stack
-
-- **Languages:** Go, TypeScript, JavaScript, Rust, SQL...
-- **Frameworks:** React, NextJs, React Native, NestJs, Express...
-- **Tools:** Docker, Git, Redis, PostgreSQL, MySQL, MongoDB, RabbitMQ, Kafka, BullMQ...
-- **Other:** Clean Architecture, TDD, RESTful APIs...
-- **Cloud & DevOps:** CI/CD, Railway, Vercel, Google Cloud Plataform, PUB/SUB...
+</div>
 
 ---
 
-## 🚀 A Bit About Me
+## About Me
 
-- 🎓 Bachelor's in Computer Science
-- 🧠 Always learning — especially about new technologies and self-help methodologies for example
-- 🧩 I enjoy solving complex problems and optimizing systems from both the dev and user side
-- 🛠️ Building side projects, contributing to open source, and sharing what I learn along the way by blog posts or with videos
-- 💬 Let's talk tech, code, startups, or anything in between!
+I build reliable, scalable products end-to-end — from backend architecture to AI-powered features shipped in production. Over 5+ years I've worked across fintech, e-commerce, and marketing tech, most recently focused on agentic AI systems: AI agents, RAG pipelines, semantic search, and vector databases.
 
----
+Currently a **Full Stack Software Engineer** at a US-based marketing agency (remote), building internal AI tooling and analytics platforms. Previously at the largest e-commerce platform in Latin America, working on Forex and cross-border payment infrastructure processing 10-15M+ daily transactions across the region.
 
-## 📫 Let's Connect
-
-- 🌐 Portfolio: [takedi.com](https://takedi.com)
-- 💼 LinkedIn: [linkedin.com/in/viniciustakedi](https://linkedin.com/in/viniciustakedi)
-- 📸 Instagram: [@7akedi](https://www.instagram.com/7akedi/)
+Outside of work, I'm building **[Oi Celine](https://oiceline.com)** — an AI-powered persistent memory tool with semantic search and RAG-generated briefs, built for sales teams and every kind of student.
 
 ---
 
-_Thanks for visiting my GitHub — feel free to explore my projects or drop a message. Let’s build cool stuff together!_
+## Tech Stack
+
+**AI & LLM Engineering**
+`AI Agents (Claude, MCP)` `RAG` `Semantic Search` `Vector Databases (Qdrant)` `Prompt Engineering` `Guardrails`
+
+**Languages & Frameworks**
+`Go` `TypeScript` `JavaScript` `SQL` &nbsp;·&nbsp; `React` `Next.js` `React Native` `NestJS` `Express`
+
+**Data & Infra**
+`PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Kafka` `Docker` `Kubernetes`
+
+**Cloud & DevOps**
+`GCP` `AWS` `Railway` `Vercel` `CI/CD`
+
+---
+
+## What I'm Doing Now
+
+- 🚀 Building [Oi Celine](https://oiceline.com), an AI memory tool for sales teams and every kind of student
+- 🎓 Deepening my architecture expertise through a specialization in Software Architecture
+- 🧠 Exploring agentic workflows, guardrails, and prompt-injection mitigation for production LLM systems
+
+---
+
+## Let's Connect
+
+- 🌐 Portfolio — [takedi.com](https://takedi.com)
+- 💼 LinkedIn — [linkedin.com/in/viniciustakedi](https://www.linkedin.com/in/viniciustakedi/)
+- 📸 Instagram — [@7akedi](https://www.instagram.com/7akedi/)
+
+<div align="center">
+<sub>Thanks for stopping by — feel free to explore my projects or drop a message.</sub>
+</div>
